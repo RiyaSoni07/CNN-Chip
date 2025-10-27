@@ -1,0 +1,18 @@
+# Ignore OpenLane run data and temporary files
+runs/
+tmp/
+reports/
+__pycache__/
+*.log
+*.gds
+*.mag
+*.odb
+*.def
+*.lef
+*.ext
+*.vcd
+*.sdf
+*.lib
+*.tcl
+*.rpt
+
